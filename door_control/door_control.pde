@@ -1,15 +1,20 @@
 /* 
-DOOR CONTROL 
-version: 1.3.2
-date: 21-09-2011
+OPEN SOURCE DOOR CONTROL 
+version: 1.3.2 
+release date: 21-09-2011
 
+Homepage: 	http://oshw.it/wiki/index.php?title=Open_Source_Door_control
+Reference:	https://github.com/Balestrino/Opensource-Door-control
+
+CHANGELOG
++++++++++++++++++++++++++++++++++++++++++++++++++++
 1.3.2 bug in emergency break
 1.3.1 watchdog 2 seconds
 1.3   only manual control, watchdog improvments
 1.2   added watchdog / optiboot
 1.1   bug fix
 1.0   inital release
-
++++++++++++++++++++++++++++++++++++++++++++++++++++
 */
 
 #include <avr/wdt.h>
