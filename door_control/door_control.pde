@@ -1,7 +1,7 @@
 /* 
 DOOR CONTROL 
 version: 1.3.2
-date: 06-09-2011
+date: 21-09-2011
 
 1.3.2 bug in emergency break
 1.3.1 watchdog 2 seconds
