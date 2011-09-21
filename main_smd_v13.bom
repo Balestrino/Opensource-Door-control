@@ -1,0 +1,80 @@
+Partlist exported from C:/Users/Tore/Dropbox/Arduino Industrial Interface/standalone version/main_smd_v13.sch at 04/06/2011 09:49:44
+
+Part     Value              Device                         Package                    Description                                  
+C1       100n               CAP0805                        0805                       Capacitor                                    
+C2       470u               CAP_POLE                       PANASONIC_E                Capacitor Polarized                          
+C3       470u               CAP_POLD                       PANASONIC_D                Capacitor Polarized                          
+C4                          CAP0805                        0805                       Capacitor                                    
+C5       100nF              CAP1210                        1210                       Capacitor                                    
+C6       100nF              CAP1210                        1210                       Capacitor                                    
+C7       100nF              CAP1210                        1210                       Capacitor                                    
+C8       100nF              CAP0805                        0805                       Capacitor                                    
+C10      22pF               CAP0805                        0805                       Capacitor                                    
+C11      22pF               CAP0805                        0805                       Capacitor                                    
+C12      4.7u               CAP_POLSMD                     VISHAY_C                   Capacitor Polarized                          
+D1       BAS40-04           BAS40-04                       SOT23                      Silicon Schottky Diodes                      
+D2       BAS40-04           BAS40-04                       SOT23                      Silicon Schottky Diodes                      
+D3       BAS40-04           BAS40-04                       SOT23                      Silicon Schottky Diodes                      
+D4       BAS40-04           BAS40-04                       SOT23                      Silicon Schottky Diodes                      
+D5       UF4004             1N4004                         DO41-10                    DIODE                                        
+D6       UF4004             1N4004                         DO41-10                    DIODE                                        
+D7       UF4004             1N4004                         DO41-10                    DIODE                                        
+D8       UF4004             1N4004                         DO41-10                    DIODE                                        
+D9                          SCHOTTKY-DIODECB417-15         CB417-15                   Schottky Diode                               
+D10      BAS40-04           BAS40-04                       SOT23                      Silicon Schottky Diodes                      
+D11      BAS40-04           BAS40-04                       SOT23                      Silicon Schottky Diodes                      
+D12      BAS40-04           BAS40-04                       SOT23                      Silicon Schottky Diodes                      
+D13      BAS40-04           BAS40-04                       SOT23                      Silicon Schottky Diodes                      
+D14      1N5400             1N5400                         DO201-15                   DIODE                                        
+F1       PTCPTH             PTCPTH                         PTC                        Resettable Fuse PTC                          
+F2       PTCPTH             PTCPTH                         PTC                        Resettable Fuse PTC                          
+H1       MOUNT-PAD-ROUND3.3 MOUNT-PAD-ROUND3.3             3,3-PAD                    MOUNTING PAD, round                          
+H2       MOUNT-PAD-ROUND3.3 MOUNT-PAD-ROUND3.3             3,3-PAD                    MOUNTING PAD, round                          
+H3       MOUNT-PAD-ROUND3.3 MOUNT-PAD-ROUND3.3             3,3-PAD                    MOUNTING PAD, round                          
+H4       MOUNT-PAD-ROUND3.3 MOUNT-PAD-ROUND3.3             3,3-PAD                    MOUNTING PAD, round                          
+IC2      MEGA8-P            MEGA8-P                        DIL28-3                    MICROCONTROLLER                              
+J1       AVR_SPI_PRG_6PTH   AVR_SPI_PRG_6PTH               2X3                        AVR ISP 6 Pin                                
+JP1                         M03SCREW                       SCREWTERMINAL-3.5MM-3      Header 3                                     
+JP2      24V                M023.5MM_LOCK                  SCREWTERMINAL-3.5MM-2_LOCK Header 2                                     
+JP3                         M03SCREW                       SCREWTERMINAL-3.5MM-3      Header 3                                     
+JP4                         M03SCREW                       SCREWTERMINAL-3.5MM-3      Header 3                                     
+JP5                         M03SCREW                       SCREWTERMINAL-3.5MM-3      Header 3                                     
+JP6      enable (1)         M023.5MM_LOCK                  SCREWTERMINAL-3.5MM-2_LOCK Header 2                                     
+JP7                         ARDUINO_SERIAL_PROGRAMLONGPADS 1X06_LONGPADS                                                           
+JP8      direction (1)      M023.5MM_LOCK                  SCREWTERMINAL-3.5MM-2_LOCK Header 2                                     
+JP10     enable (2)         M023.5MM_LOCK                  SCREWTERMINAL-3.5MM-2_LOCK Header 2                                     
+JP12     direction (2)      M023.5MM_LOCK                  SCREWTERMINAL-3.5MM-2_LOCK Header 2                                     
+JP16                        M023.5MM_LOCK                  SCREWTERMINAL-3.5MM-2_LOCK Header 2                                     
+JP17                        M04LONGPADS                    1X04_LONGPADS              Header 4                                     
+JP21                        M03SCREW                       SCREWTERMINAL-3.5MM-3      Header 3                                     
+L1       10uH               INDUCTORSRU5028                SRU5028                    Inductors                                    
+LED1                        LED1206                        LED-1206                   LEDs                                         
+LED2                        LED1206                        LED-1206                   LEDs                                         
+LED3                        LED1206                        LED-1206                   LEDs                                         
+LED4                        LED1206                        LED-1206                   LEDs                                         
+OK1      ILD206             ILD206                         SOIC08                     Siemens ILD205/206/207/211/213/217           
+OK2      ILD206             ILD206                         SOIC08                     Siemens ILD205/206/207/211/213/217           
+POWER                       LED1206                        LED-1206                   LEDs                                         
+PWS1     TEN_32411          TEN_32411                      TEN3XXXX                   DC/DC Konverter 3 Watt, 2 x Input, 1 x Output
+R1       2.2K               R-EU_R1210                     R1210                      RESISTOR, European symbol                    
+R2       10K                R-EU_R0805                     R0805                      RESISTOR, European symbol                    
+R3       10K                R-EU_R0805                     R0805                      RESISTOR, European symbol                    
+R4       10K                R-EU_R0805                     R0805                      RESISTOR, European symbol                    
+R5       1K                 R-EU_R0805                     R0805                      RESISTOR, European symbol                    
+R6       1K                 R-EU_R0805                     R0805                      RESISTOR, European symbol                    
+R7       1K                 R-EU_R0805                     R0805                      RESISTOR, European symbol                    
+R8       1K                 R-EU_R0805                     R0805                      RESISTOR, European symbol                    
+R9       2.2K               R-EU_R1210                     R1210                      RESISTOR, European symbol                    
+R10      2.2K               R-EU_R1210                     R1210                      RESISTOR, European symbol                    
+R11      2.2K               R-EU_R1210                     R1210                      RESISTOR, European symbol                    
+R12      150                RESISTOR0805-RES               0805                       Resistor                                     
+R13      330                R-EU_R1210                     R1210                      RESISTOR, European symbol                    
+R14      150                RESISTOR0805-RES               0805                       Resistor                                     
+R15      150                RESISTOR0805-RES               0805                       Resistor                                     
+R16      150                RESISTOR0805-RES               0805                       Resistor                                     
+R29      6K                 R-EU_R0805                     R0805                      RESISTOR, European symbol                    
+R30      6K                 R-EU_R0805                     R0805                      RESISTOR, European symbol                    
+R31      6K                 R-EU_R0805                     R0805                      RESISTOR, European symbol                    
+R33      10K                R-EU_R0805                     R0805                      RESISTOR, European symbol                    
+ULN2803A                    ULN2803SOIC                    SO018                      Darlington Driver                            
+Y1                          CRYSTALSMD                     HC49UP                     Crystals                                     
