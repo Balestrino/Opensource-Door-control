@@ -1,8 +1,9 @@
 /* 
 DOOR CONTROL 
-version: 1.3.1
+version: 1.3.2
 date: 06-09-2011
 
+1.3.2 bug in emergency break
 1.3.1 watchdog 2 seconds
 1.3   only manual control, watchdog improvments
 1.2   added watchdog / optiboot
@@ -105,7 +106,8 @@ void loop()
             // security check
             if (!digitalRead(CMD_CLOSE_in) || !digitalRead(CMD_CLOSE_out))
             {
-              Serial.println("*EMERGECENCY BREAK*");
+			  Serial.println("*EMERGECENCY BREAK*");
+			  stop_motor();
               break;
             }          
           delay(ACTION_DELAY_TIME);
